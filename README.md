@@ -1,6 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Hikaro</h1>
+<h3 align="center">✨Ukrainian Game and Miscellaneous Content Localizer✨</h3>
 
-<a href="https://u8views.com/github/hikarosato"><img src="https://u8views.com/api/v1/github/profiles/35894722/views/total-count.svg"></a>
+
+- 🔭 Currently working on the localization of <b>The Settlers 7: Paths to a Kingdom</b>
+- 📫 Reach me on Discord: <b>.hikaro</b>
+
 
 <!--
 **hikarosato/hikarosato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
