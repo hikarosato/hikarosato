@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://u8views.com/github/hikarosato"><img src="https://u8views.com/api/v1/github/profiles/35894722/views/day-week-month-total-count.svg"></a>
+<a href="https://u8views.com/github/hikarosato"><img src="https://u8views.com/api/v1/github/profiles/35894722/views/total-count.svg"></a>
 
 <!--
 **hikarosato/hikarosato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
