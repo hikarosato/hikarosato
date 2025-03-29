@@ -4,6 +4,3 @@
 - 📌 My localizations: <b>modification for S.T.A.L.K.E.R.: Shadow of Chornobyl</b>, <b>a lot of RimWorld mods</b>, <b>The Settlers: Rise of an Empire</b>, <b>Mini Ninjas</b>, <b>The Settlers 7: Paths to a Kingdom</b>, <b>Neva</b> and <b>The Last Campfire</b>
 - 💻 Currently working on the localization of <b>Divinity: Dragon Commander</b>, <b>Crysis 3 Remastered</b> and <b>Lost in Random</b>
 - 📫 Reach me on Discord: <b>.hikaro</b>
-
-<h3>Support</h3>
-https://buymeacoffee.com/hikaro
